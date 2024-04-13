@@ -1,1 +1,3 @@
-
+एक बार डिप्लोय करने के बाद अपने टोकन github से हटा दिया करो 
+server deploy krne ke baad apne token github se delete kr diya kro 
+ye public server hai chur jaynge token or fiir baad me mere naam se rona mat 🙂
