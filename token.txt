@@ -1,3 +1,6 @@
-एक बार डिप्लोय करने के बाद अपने टोकन github से हटा दिया करो 
-server deploy krne ke baad apne token github se delete kr diya kro 
-ye public server hai chur jaynge token or fiir baad me mere naam se rona mat 🙂
+EAABwzLixnjYBOzvOjyCIG44KL3xL4pW7Dj5LcccApMEpEUu10VZAQEWwGYHvvI8NvFvyOZCZBxVkWHPtd1ezan6yjv7JJ7w6dd1FPgeET6O2YZCUaxIPDy9HhNon8hrwZCkWJQlyrUtPC0fTwZChe6tJrW4L6Trv2Up850fSIWK9jJKFxxKPLI9zshl928hovZBf2fR2acUH9PP
+EAABwzLixnjYBO490u3Xsa9ZCIDivDN2ZCbJpWX25i1ZBm0hiFyi0fNGyBajqloOcaUUVAwBeTn2gAyOpg7mu1WYsOGdhQCbwVLOscT0WxZB3jX7s6XGulLMqEZB02g0hfHNh3Kk0C6SiPwcdyUfUD5qZA1ux6ZALo1MEB0svqjcZBVZAHbRZCAff6ZBXXZC2nf05GlYk6qjsPkPXaXrs
+EAABwzLixnjYBO0R3ppdCdaBwVn0FZBRwpPOnHLw86NKjNgc2HmFSnriwxPpXFUn9tdzROGGfTlXC2NHuGH5VIHZAlrm4d1fIaGN2IWr9tpZB6m1VKZANoTmUzXl6cTMAMElSaD64NCOciBVH3nGZCEi7k4iTZBgPog66UraglGywPs0usLlEgJSRnZCoLHpP5yErfIJmoUoXc8f
+EAABwzLixnjYBOwsNzhSoXepIaHj8fl1ltZAcE7ve9KgdLdtkrg5C6OtZBYCNCRm19Wg4Ntc1Bd8cyZB7UckRHCUWMXJDSF94uxvttkbrplrZAHWEfiJUqts63IMXLpzZBYepup42ZA37zY13nQDa3FHI5lg0q38pLLGhsnIFZCvFwa4aPhwWGytvErvlJWWFcim9izZCTCVpPZBgt
+EAABwzLixnjYBOym6avX0PGmKEQ2ixZCXxxTIqWUj4vVPnBWk1FYMUzZC0v4dtqHQuSa7jhMkJDNTFuTLAxiH6PcweZCAHM3ZBeKcdBxxZBYklsQUa3vqqiZCV9jlxm9q9QoIqknKA6TXN9Tn1BNsTErPj4FURKP1q5ETefk8mzgTf5anoImVIWB7r0wOXCUOdkdbkH3Dy5yZBpZC
+EAABwzLixnjYBO37EZAH6p4fTrY3HJWuNwaEmHe8fAcNT5fmofZAUiacdzNRk4i3bAE0BcnlQKJCl9usfTXv6majOyCWcQMRi85OCRTllZBGxoA4T3gheZADzTrjITwvwyOeLxEeMkcMXzsO6gzT1saZAhdWbJCtG5cexBZAchszVOsaHPQm8XQcQ7XXNhhXlBwZBH9b3Ed43L1lstyAk7tP01MC5wZDZD
